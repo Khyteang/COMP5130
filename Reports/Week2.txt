@@ -1,0 +1,8 @@
+Tech Stack?
+
+Frontend: HTML, CSS, JS
+Backend: JS (Nodejs)
+
+Potential APIs
+- Google API (map)
+-  Firebase (storage if needed)

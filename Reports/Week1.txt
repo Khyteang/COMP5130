@@ -1,2 +1,11 @@
-Week 1: Define the problem 
+Week 1: Define the problem
 
+There have been a lot of natural disasters occurring every day around the world. 
+However, our news sources only show either local news or political news. 
+he problem is that there isn’t a one-stop-shop solution for the public to learn and to be aware of areas to avoid for vacationing or going for business trips. 
+Last week, there was a tsunami that hit Indonesia and many people were affected but CNN was showcasing mostly the Kavanaugh’s case. 
+Our failure to notify the public about this natural disaster event that is happening in our own world may have hindered the world’s responsibility to help one another in time of need. 
+
+The solution: 
+A stop-shop website that monitors all the disaster and emergency events around the world. 
+The website will provide detailed information about the event and how the public can contribute to help fundraising to provide foods and water and medical needs for those who are affected.
