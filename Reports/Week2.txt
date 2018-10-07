@@ -1,8 +1,8 @@
 Tech Stack?
 
 Frontend: HTML, CSS, JS
-Backend: JS (Nodejs)
+Backend: JS (Nodejs), Express
 
 Potential APIs
 - Google API (map)
--  Firebase (storage if needed)
+- Firebase (storage if needed)

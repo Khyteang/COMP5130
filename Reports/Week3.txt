@@ -1,0 +1,8 @@
+Week 3
+- Created NodeJS project with backend server setup.
+- Researched for disasters and emergency events data source.
+- Hungarian National Association of Radio Distress Signaling and Infocommunications (RSOE).
+
+To do:
+- Will required data scrapping since the RSOE website does not have an API endpoint.
+- Setup frontend HTML 

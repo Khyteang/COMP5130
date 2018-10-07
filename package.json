@@ -1,0 +1,23 @@
+{
+  "name": "comp5130",
+  "version": "1.0.0",
+  "description": "Class Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khyteang/COMP5130.git"
+  },
+  "author": "Khyteang Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khyteang/COMP5130/issues"
+  },
+  "homepage": "https://github.com/Khyteang/COMP5130#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
